@@ -17,12 +17,15 @@ This project is a food ordering application build using React . It aims to showc
 ## Introduction
 
 This food ordering application is a demonstration of web deverlopment techniques using React and CSS .This repository serves as an open-source example for educational purposes and can be used as a reference for various web development concepts using React and CSS.Also there are some insights present regarding Google firebase.
+
+Live website- [Food Ordering Website](https://food-ordering-website-pearl.vercel.app/)
 ## Features
 
 - Responsive layout adapting to various screens
 - Homepage showcasing different meals available (fetched from Google Fireabse real time database using API's
 - Effectve usage of React hooks to facilitate functionalities
 - Importance of dividing the code into various components and other parts for effective and easy understanding
+- Fetching data from the database and saving new order and user data 
 
 
 
